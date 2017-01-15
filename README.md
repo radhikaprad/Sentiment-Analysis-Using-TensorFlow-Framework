@@ -1,7 +1,7 @@
 # Sentiment Analysis Using TensorFlow Framework
 
 # Abstract:
-  Sentiment analysis on Twitter data using Long short term Memory, a type of Recurrent Neural Network and word embedding to group words that are semantically similar. This paper has found its motivation from sentiment analysis on twitter data using POS-specific prior polarity features, using tree kernel to obviate the need for tedious feature engineering and tree kernel. The tree kernel performs approximately at the same level, both outperforming the state-of-the-art baseline
+  Sentiment analysis on Twitter data using Long short term Memory, a type of ## Recurrent Neural Network and ## word embedding to group words that are semantically similar. This paper has found its motivation from sentiment analysis on twitter data using POS-specific prior polarity features, using tree kernel to obviate the need for tedious feature engineering and tree kernel. The tree kernel performs approximately at the same level, both outperforming the state-of-the-art baseline
   
 # Introduction:
   Microblogging websites like Friend Feed, Tumblr, Plurk, Twitter, Pinterest has become a source of many various information. Microblogs allow users to exchange small elements of content as short sentences, individual images, or links to videos. People post about their real time opinions on a lot of topics happening around the world. This could also be
